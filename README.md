@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Overview of Project
-#### - *To build an interactive app that allowed a user to find a vaction destination baed on their preffered temperature.* 
+#### - *To build an interactive app that allowes a user to find a vaction destinations baed on their preferred temperature.* 
 
 
 
@@ -18,5 +18,10 @@
     - create an interactive google map displaying different markers, heatmaps and pop-ups
 
 
+## The images below are from the different stages of the project. 
 
 ![Vacation_Search/](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+
+![WeatherPy_travel_map ](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map%20(2).png)
+
+![WeatherPy_travel_map](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png.png)
