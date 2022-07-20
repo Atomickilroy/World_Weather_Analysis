@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Overview of Project
-#### - *A representational analysis on a school district's funding and the corrilations to its schools student performance scores on standardized reading and math tests.* 
+#### - *To build an interactive app that allowed a user to find a vaction destination baed on their preffered temperature.* 
 
 
 
