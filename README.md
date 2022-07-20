@@ -20,11 +20,12 @@
 
 ## The images below are from the different stages of the project. 
 
-### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F) *** 
+### ***Inital map of the world with all areas where the temp was between 65 (F) and 85(F)*** 
 ![Vacation_Search/](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
-### ***Location selected based on temperature with travel routes *** 
+### ***Location selected based on temperature with travel routes.*** 
 ![WeatherPy_travel_map ](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map%20(2).png)
 
-### ***Location selected based on temperature with hotel information  *** 
+### *Location selected based on temperature with hotel information.* 
+
 ![WeatherPy_travel_map](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png.png)
