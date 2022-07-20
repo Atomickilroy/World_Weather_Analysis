@@ -1,13 +1,13 @@
 # World_Weather_Analysis
 
 ## Overview of Project
-#### - *To build an interactive app that allowes a user to find a vaction destinations baed on their preferred temperature.* 
+#### - *To build an interactive app that allows a user to find a vaction destinations based on their preferred temperature.* 
 
 
 
 
 
-## <center>Purpose
+## Purpose
 
 1.  The purpose of this project was to learn how to:
     - call an API
@@ -29,3 +29,5 @@
 ### *Location selected based on temperature with hotel information.* 
 
 ![WeatherPy_travel_map](https://github.com/Atomickilroy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png.png)
+
+
